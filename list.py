@@ -1,2 +1,8 @@
+import re, os
+
 for i in file:
-  print i
+  return 1
+
+
+  
+print("hello")
