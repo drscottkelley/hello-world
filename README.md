@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Don't be stupid.
+I teach bioinformatics at San Diego State University.
